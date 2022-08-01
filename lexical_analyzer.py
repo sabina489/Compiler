@@ -1,6 +1,6 @@
 import nltk
 import re
-nltk.download('punkt')
+# nltk.download('punkt')
 
 f = open('InputProgForPythonCode.c', 'r')
 program = f.read()
